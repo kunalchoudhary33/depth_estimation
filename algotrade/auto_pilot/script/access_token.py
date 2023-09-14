@@ -3,7 +3,7 @@ import json
 import logging
 
 logging.basicConfig(level=logging.DEBUG)
-CRED_CONFIG_PATH = "D:/auto_pilot/config/cred.json"
+CRED_CONFIG_PATH = "/home/ubuntu/depth_estimation/algotrade/auto_pilot/config/cred.json"
 
 class Access_Token():
 
