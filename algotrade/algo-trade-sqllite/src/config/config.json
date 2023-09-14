@@ -1,0 +1,20 @@
+{
+
+  "host": "localhost",
+  "user": "kunal",
+  "password": "India@1234",
+  "database": "algo",
+
+  "tokens": 260105,
+  "trading_symbol": "NIFTY%20BANK",
+
+  "quantity": 25,
+  "target_percentage": 5,
+  "stop_loss_percentage": 30,
+
+  "percent": 1.5,
+  "diff_mid_high_low": 10,
+  "min_k_value": 50,
+  "per_diff_close_low": 1.5
+
+}
